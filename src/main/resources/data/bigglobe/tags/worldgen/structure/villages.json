@@ -1,5 +1,5 @@
 {
-	"replace": false,
+	"replace": true,
 	"values": [
 		"bigglobe:vanilla/village_desert",
 		"bigglobe:vanilla/village_plains",
